@@ -1,0 +1,1351 @@
+2023-7-24 22:6:52 CoolFire4853: Detected attempting to cheat $972 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:6:52 User CoolFire4853: Detected attempting to cheat $972 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:10:46 Pedroextreme3: Detected attempting to cheat $13826 worth of assets.
+Maximum generated: 3600
+Maximum clicked: 3600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:10:46 User Pedroextreme3: Detected attempting to cheat $13826 worth of assets.
+Maximum generated: 3600
+Maximum clicked: 3600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:31:20 ccc: Detected attempting to cheat $5684 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:31:20 User ccc: Detected attempting to cheat $5684 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:57:1 Alexios: Detected attempting to cheat $18301 worth of assets.
+Maximum generated: 133860
+Maximum clicked: 73800
+Maximum auto'ed: 60060
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 22:57:1 User Alexios: Detected attempting to cheat $18301 worth of assets.
+Maximum generated: 133860
+Maximum clicked: 73800
+Maximum auto'ed: 60060
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:8:44 akdobro2: Detected attempting to cheat $127116 worth of assets.
+Maximum generated: 549240
+Maximum clicked: 293400
+Maximum auto'ed: 255840
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:8:44 User akdobro2: Detected attempting to cheat $127116 worth of assets.
+Maximum generated: 549240
+Maximum clicked: 293400
+Maximum auto'ed: 255840
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:11:57 Sanssler: Detected attempting to cheat $358008 worth of assets.
+Maximum generated: 395940
+Maximum clicked: 303360
+Maximum auto'ed: 92580
+Money hacked: undefined
+Minimum spent: 630767
+MPC spent: 320870
+Autoclicker spent: 0
+Superclicker spent: 187204
+Triple spent: 122693
+2023-7-24 23:11:57 User Sanssler: Detected attempting to cheat $358008 worth of assets.
+Maximum generated: 395940
+Maximum clicked: 303360
+Maximum auto'ed: 92580
+Money hacked: undefined
+Minimum spent: 630767
+MPC spent: 320870
+Autoclicker spent: 0
+Superclicker spent: 187204
+Triple spent: 122693
+2023-7-24 23:13:24 person: Detected attempting to cheat $648237 worth of assets.
+Maximum generated: 71400
+Maximum clicked: 61440
+Maximum auto'ed: 9960
+Money hacked: undefined
+Minimum spent: 725649
+MPC spent: 0
+Autoclicker spent: 644
+Superclicker spent: 710133
+Triple spent: 14872
+2023-7-24 23:13:24 User person: Detected attempting to cheat $648237 worth of assets.
+Maximum generated: 71400
+Maximum clicked: 61440
+Maximum auto'ed: 9960
+Money hacked: undefined
+Minimum spent: 725649
+MPC spent: 0
+Autoclicker spent: 644
+Superclicker spent: 710133
+Triple spent: 14872
+2023-7-24 23:14:32 eth01: Detected attempting to cheat $203052 worth of assets.
+Maximum generated: 772740
+Maximum clicked: 579840
+Maximum auto'ed: 192900
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:14:32 User eth01: Detected attempting to cheat $203052 worth of assets.
+Maximum generated: 772740
+Maximum clicked: 579840
+Maximum auto'ed: 192900
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:14:59 person2: Detected attempting to cheat $798419 worth of assets.
+Maximum generated: 3840
+Maximum clicked: 3840
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:14:59 User person2: Detected attempting to cheat $798419 worth of assets.
+Maximum generated: 3840
+Maximum clicked: 3840
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-24 23:30:38 User Sanssler: 
+2023-7-24 23:30:48 User Sanssler: 
+2023-7-24 23:58:21 User eth02: Was suspended by a moderator
+2023-7-24 23:58:38 User eth02: Was suspended by a moderator
+2023-7-25 0:1:43 User eth03: Was suspended by a moderator
+2023-7-25 0:38:5 User loredump: Was suspended by a moderator
+2023-7-25 0:38:11 User loredump: Was suspended by a moderator
+2023-7-25 0:39:7 User LOREDUMPISBACK: Was suspended by a moderator
+2023-7-25 0:43:10 User nuhuh20: Was suspended by a moderator
+2023-7-25 0:44:18 User SPONSORSAREBAD: Was suspended by a moderator
+2023-7-25 0:46:15 User ITWILLNOTWORK: Was suspended by a moderator
+2023-7-25 0:50:18 User UHOH: Was suspended by a moderator
+2023-7-25 1:1:45 User UHOH1: Was suspended by a moderator
+2023-7-25 1:2:2 User Proto: Was suspended by a moderator
+2023-7-25 1:2:19 User clone1: Was suspended by a moderator
+2023-7-25 1:3:51 User Proto2: Was suspended by a moderator
+2023-7-25 1:8:6 User Proto3: Was suspended by a moderator
+2023-7-25 1:9:19 User Proto4: Was suspended by a moderator
+2023-7-25 1:10:52 User Proto5: Was suspended by a moderator
+2023-7-25 1:13:27 User Proto6: Was suspended by a moderator
+2023-7-25 1:13:38 User clone4: Was suspended by a moderator
+2023-7-25 1:15:0 User Proto8: Was suspended by a moderator
+2023-7-25 1:15:34 User Proto9: Was suspended by a moderator
+2023-7-25 15:14:49 User CLONEVPN: Was suspended by a moderator
+2023-7-25 15:15:7 User CLONEVPN: 
+2023-7-25 15:17:49 User CLONEVPN: 
+2023-7-26 0:18:31 User NotNotCoffee: Was suspended by a moderator
+2023-7-26 0:23:28 User NotNotCoffee: Was suspended by a moderator
+2023-7-26 0:34:40 User NotNotCoffee: Was suspended by a moderator
+2023-7-26 1:1:30 User Money: Was suspended by a moderator
+2023-7-26 1:43:8 User TommyInnit: Was suspended by a moderator
+2023-7-26 1:45:53 User dream: Was suspended by a moderator
+2023-7-26 1:47:36 User ph1lza: Was suspended by a moderator
+2023-7-26 1:47:48 User WilburSoot: Was suspended by a moderator
+2023-7-26 1:48:31 User JackSucksAtLife: Was suspended by a moderator
+2023-7-26 1:48:40 User skeppy: Was suspended by a moderator
+2023-7-26 1:55:6 User TomSinons: Was suspended by a moderator
+2023-7-26 1:56:4 User fortniTE: Was suspended by a moderator
+2023-7-26 1:56:31 User Fortnite: Was suspended by a moderator
+2023-7-26 2:10:43 User f0rtnite: Was suspended by a moderator
+2023-7-26 2:10:52 User FortNite2: Was suspended by a moderator
+2023-7-26 16:23:18 User difififo: Was suspended by a moderator
+2023-7-26 16:23:53 User difififo: Was suspended by a moderator
+2023-7-26 16:24:4 User wikxkfkexif: Was suspended by a moderator
+2023-7-26 16:24:13 User iwidkdjrjdkd: Was suspended by a moderator
+2023-7-26 16:24:22 User wikxkfkexif: Was suspended by a moderator
+2023-7-26 16:24:40 User wikxkfkexif: Was suspended by a moderator
+2023-7-26 18:56:27 User NotCoffee: Was suspended by a moderator
+2023-7-26 18:59:52 User NotCoffee: 
+2023-7-26 20:15:13 User BillyDaMovie: Was suspended by a moderator
+2023-7-26 20:16:15 User ProbablyFirst: Was suspended by a moderator
+2023-7-26 20:18:30 User NotBilly: Was suspended by a moderator
+2023-7-26 20:18:54 User smolliez: Was suspended by a moderator
+2023-7-26 20:22:27 asdasdsda: Detected attempting to cheat $4.2e+69 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:22:27 User asdasdsda: Detected attempting to cheat $4.2e+69 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:22:37 User Rumradisse: Was suspended by a moderator
+2023-7-26 20:23:8 User Rumradisse2: Was suspended by a moderator
+2023-7-26 20:23:48 AntiCheat: Detected attempting to cheat $1.7976931348623157e+308 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 13000000
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:23:48 User AntiCheat: Detected attempting to cheat $1.7976931348623157e+308 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 13000000
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:30:6 sussybaka: Detected attempting to cheat $1.0000000000000001e+73 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:30:6 User sussybaka: Detected attempting to cheat $1.0000000000000001e+73 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:31:27 hollupwaitamin: Detected attempting to cheat $118800 worth of assets.
+Maximum generated: 70200
+Maximum clicked: 70200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 18204
+MPC spent: 18204
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:31:27 User hollupwaitamin: Detected attempting to cheat $118800 worth of assets.
+Maximum generated: 70200
+Maximum clicked: 70200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 18204
+MPC spent: 18204
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:6 BILLY: Detected attempting to cheat $998200 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:6 User BILLY: Detected attempting to cheat $998200 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:52 RoyalPear: Detected attempting to cheat $21787 worth of assets.
+Maximum generated: 90000
+Maximum clicked: 82800
+Maximum auto'ed: 7200
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:52 User RoyalPear: Detected attempting to cheat $21787 worth of assets.
+Maximum generated: 90000
+Maximum clicked: 82800
+Maximum auto'ed: 7200
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:54 CLoneVPN: Detected attempting to cheat $9531 worth of assets.
+Maximum generated: 85140
+Maximum clicked: 81000
+Maximum auto'ed: 4140
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:35:54 User CLoneVPN: Detected attempting to cheat $9531 worth of assets.
+Maximum generated: 85140
+Maximum clicked: 81000
+Maximum auto'ed: 4140
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:36:7 houpwaiddtamin: Detected attempting to cheat $998200 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:36:7 User houpwaiddtamin: Detected attempting to cheat $998200 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:37:58 Riggy: Detected attempting to cheat $91673 worth of assets.
+Maximum generated: 7320
+Maximum clicked: 7200
+Maximum auto'ed: 120
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:37:58 User Riggy: Detected attempting to cheat $91673 worth of assets.
+Maximum generated: 7320
+Maximum clicked: 7200
+Maximum auto'ed: 120
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:39:59 ClippitMS1995: Detected attempting to cheat $8.888888888888865e+32 worth of assets.
+Maximum generated: 78030
+Maximum clicked: 75600
+Maximum auto'ed: 2430
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:39:59 User ClippitMS1995: Detected attempting to cheat $8.888888888888865e+32 worth of assets.
+Maximum generated: 78030
+Maximum clicked: 75600
+Maximum auto'ed: 2430
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:40:25 Cat: Detected attempting to cheat $8.888888888888865e+32 worth of assets.
+Maximum generated: 122850
+Maximum clicked: 113400
+Maximum auto'ed: 9450
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:40:25 User Cat: Detected attempting to cheat $8.888888888888865e+32 worth of assets.
+Maximum generated: 122850
+Maximum clicked: 113400
+Maximum auto'ed: 9450
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:40:46 Billy: Detected attempting to cheat $1.1022222222222164e+33 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:40:46 User Billy: Detected attempting to cheat $1.1022222222222164e+33 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:41:15 JonnyRaZeR: Detected attempting to cheat $1.1022222222222164e+33 worth of assets.
+Maximum generated: 4200
+Maximum clicked: 3600
+Maximum auto'ed: 600
+Money hacked: undefined
+Minimum spent: 13198142
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 198142
+Triple spent: 0
+2023-7-26 20:41:15 User JonnyRaZeR: Detected attempting to cheat $1.1022222222222164e+33 worth of assets.
+Maximum generated: 4200
+Maximum clicked: 3600
+Maximum auto'ed: 600
+Money hacked: undefined
+Minimum spent: 13198142
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 198142
+Triple spent: 0
+2023-7-26 20:41:21 User monke: Was suspended by a moderator
+2023-7-26 20:41:45 ShortsARG2: Detected attempting to cheat $1.2728888888888805e+33 worth of assets.
+Maximum generated: 185400
+Maximum clicked: 185400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 8336771
+MPC spent: 8336771
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:41:45 User ShortsARG2: Detected attempting to cheat $1.2728888888888805e+33 worth of assets.
+Maximum generated: 185400
+Maximum clicked: 185400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 8336771
+MPC spent: 8336771
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:43:7 alexdoodlez2: Detected attempting to cheat $2.8e+79 worth of assets.
+Maximum generated: 85560
+Maximum clicked: 79200
+Maximum auto'ed: 6360
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:43:7 User alexdoodlez2: Detected attempting to cheat $2.8e+79 worth of assets.
+Maximum generated: 85560
+Maximum clicked: 79200
+Maximum auto'ed: 6360
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:43:39 wojcake: Detected attempting to cheat $8.120000000000001e+79 worth of assets.
+Maximum generated: 2460
+Maximum clicked: 1800
+Maximum auto'ed: 660
+Money hacked: undefined
+Minimum spent: 236873
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 236873
+Triple spent: 0
+2023-7-26 20:43:39 User wojcake: Detected attempting to cheat $8.120000000000001e+79 worth of assets.
+Maximum generated: 2460
+Maximum clicked: 1800
+Maximum auto'ed: 660
+Money hacked: undefined
+Minimum spent: 236873
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 236873
+Triple spent: 0
+2023-7-26 20:43:47 clone123: Detected attempting to cheat $8.120000000000001e+79 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:43:47 User clone123: Detected attempting to cheat $8.120000000000001e+79 worth of assets.
+Maximum generated: 1800
+Maximum clicked: 1800
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:45:58 NotNotCoffee: Detected attempting to cheat $9998800 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:45:58 User NotNotCoffee: Detected attempting to cheat $9998800 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:29 Riggy: Detected attempting to cheat $2640 worth of assets.
+Maximum generated: 61560
+Maximum clicked: 61200
+Maximum auto'ed: 360
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:29 User Riggy: Detected attempting to cheat $2640 worth of assets.
+Maximum generated: 61560
+Maximum clicked: 61200
+Maximum auto'ed: 360
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:34 S4in: Detected attempting to cheat $1.7900000000000003e+306 worth of assets.
+Maximum generated: 32430
+Maximum clicked: 31200
+Maximum auto'ed: 1230
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:34 User S4in: Detected attempting to cheat $1.7900000000000003e+306 worth of assets.
+Maximum generated: 32430
+Maximum clicked: 31200
+Maximum auto'ed: 1230
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:39 Coffee: Detected attempting to cheat $1.7900000000000003e+306 worth of assets.
+Maximum generated: 26400
+Maximum clicked: 26400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:39 User Coffee: Detected attempting to cheat $1.7900000000000003e+306 worth of assets.
+Maximum generated: 26400
+Maximum clicked: 26400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:43 A57R0: Detected attempting to cheat $8360 worth of assets.
+Maximum generated: 75900
+Maximum clicked: 66000
+Maximum auto'ed: 9900
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:47:43 User A57R0: Detected attempting to cheat $8360 worth of assets.
+Maximum generated: 75900
+Maximum clicked: 66000
+Maximum auto'ed: 9900
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:50:14 Noah: Detected attempting to cheat $6745 worth of assets.
+Maximum generated: 60030
+Maximum clicked: 60000
+Maximum auto'ed: 30
+Money hacked: undefined
+Minimum spent: 53061
+MPC spent: 52861
+Autoclicker spent: 200
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:50:14 User Noah: Detected attempting to cheat $6745 worth of assets.
+Maximum generated: 60030
+Maximum clicked: 60000
+Maximum auto'ed: 30
+Money hacked: undefined
+Minimum spent: 53061
+MPC spent: 52861
+Autoclicker spent: 200
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:52:41 seatdunko: Detected attempting to cheat $17832 worth of assets.
+Maximum generated: 1230
+Maximum clicked: 1200
+Maximum auto'ed: 30
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:52:41 User seatdunko: Detected attempting to cheat $17832 worth of assets.
+Maximum generated: 1230
+Maximum clicked: 1200
+Maximum auto'ed: 30
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:3 Spamtonglol: Detected attempting to cheat $236 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:3 User Spamtonglol: Detected attempting to cheat $236 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:24 helloguys: Detected attempting to cheat $1662 worth of assets.
+Maximum generated: 62400
+Maximum clicked: 62400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 31434
+MPC spent: 31434
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:24 User helloguys: Detected attempting to cheat $1662 worth of assets.
+Maximum generated: 62400
+Maximum clicked: 62400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 31434
+MPC spent: 31434
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:36 Dyahs: Detected attempting to cheat $1165 worth of assets.
+Maximum generated: 95670
+Maximum clicked: 84000
+Maximum auto'ed: 11670
+Money hacked: undefined
+Minimum spent: 156343
+MPC spent: 156343
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:53:36 User Dyahs: Detected attempting to cheat $1165 worth of assets.
+Maximum generated: 95670
+Maximum clicked: 84000
+Maximum auto'ed: 11670
+Money hacked: undefined
+Minimum spent: 156343
+MPC spent: 156343
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:55:5 lolilol: Detected attempting to cheat $13632 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:55:5 User lolilol: Detected attempting to cheat $13632 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:16 help: Detected attempting to cheat $71117034 worth of assets.
+Maximum generated: 9600
+Maximum clicked: 9600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:16 User help: Detected attempting to cheat $71117034 worth of assets.
+Maximum generated: 9600
+Maximum clicked: 9600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:19 chamoy4768: Detected attempting to cheat $22452 worth of assets.
+Maximum generated: 1260
+Maximum clicked: 1200
+Maximum auto'ed: 60
+Money hacked: undefined
+Minimum spent: 21450
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 21450
+Triple spent: 0
+2023-7-26 20:56:19 User chamoy4768: Detected attempting to cheat $22452 worth of assets.
+Maximum generated: 1260
+Maximum clicked: 1200
+Maximum auto'ed: 60
+Money hacked: undefined
+Minimum spent: 21450
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 21450
+Triple spent: 0
+2023-7-26 20:56:36 royalPear: Detected attempting to cheat $78422061 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:36 User royalPear: Detected attempting to cheat $78422061 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:55 CloneVPNowner: Detected attempting to cheat $330 worth of assets.
+Maximum generated: 26400
+Maximum clicked: 26400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:56:55 User CloneVPNowner: Detected attempting to cheat $330 worth of assets.
+Maximum generated: 26400
+Maximum clicked: 26400
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:2 EdikCloneVPN: Detected attempting to cheat $70951235 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:2 User EdikCloneVPN: Detected attempting to cheat $70951235 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:3 potato: Detected attempting to cheat $24786 worth of assets.
+Maximum generated: 1380
+Maximum clicked: 1200
+Maximum auto'ed: 180
+Money hacked: undefined
+Minimum spent: 22441
+MPC spent: 0
+Autoclicker spent: 991
+Superclicker spent: 21450
+Triple spent: 0
+2023-7-26 20:58:3 User potato: Detected attempting to cheat $24786 worth of assets.
+Maximum generated: 1380
+Maximum clicked: 1200
+Maximum auto'ed: 180
+Money hacked: undefined
+Minimum spent: 22441
+MPC spent: 0
+Autoclicker spent: 991
+Superclicker spent: 21450
+Triple spent: 0
+2023-7-26 20:58:28 RAB14966: Detected attempting to cheat $486 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:28 User RAB14966: Detected attempting to cheat $486 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:39 AceNubito: Detected attempting to cheat $23113 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:39 User AceNubito: Detected attempting to cheat $23113 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:50 sunny: Detected attempting to cheat $76419715 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 20:58:50 User sunny: Detected attempting to cheat $76419715 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:5:22 NotNotCoffee: Detected attempting to cheat $1e+300 worth of assets.
+Maximum generated: 2.1922524559963536e+49
+Maximum clicked: 10808639105689188000
+Maximum auto'ed: 2.1922524559963536e+49
+Money hacked: undefined
+Minimum spent: 10750
+MPC spent: 50
+Autoclicker spent: 200
+Superclicker spent: 10000
+Triple spent: 500
+2023-7-26 21:5:22 User NotNotCoffee: Detected attempting to cheat $1e+300 worth of assets.
+Maximum generated: 2.1922524559963536e+49
+Maximum clicked: 10808639105689188000
+Maximum auto'ed: 2.1922524559963536e+49
+Money hacked: undefined
+Minimum spent: 10750
+MPC spent: 50
+Autoclicker spent: 200
+Superclicker spent: 10000
+Triple spent: 500
+2023-7-26 21:6:5 ShalevWen: Detected attempting to cheat $1e+100 worth of assets.
+Maximum generated: 2.1922524559963536e+49
+Maximum clicked: 10808639105689188000
+Maximum auto'ed: 2.1922524559963536e+49
+Money hacked: undefined
+Minimum spent: 10750
+MPC spent: 50
+Autoclicker spent: 200
+Superclicker spent: 10000
+Triple spent: 500
+2023-7-26 21:6:5 User ShalevWen: Detected attempting to cheat $1e+100 worth of assets.
+Maximum generated: 2.1922524559963536e+49
+Maximum clicked: 10808639105689188000
+Maximum auto'ed: 2.1922524559963536e+49
+Money hacked: undefined
+Minimum spent: 10750
+MPC spent: 50
+Autoclicker spent: 200
+Superclicker spent: 10000
+Triple spent: 500
+2023-7-26 21:6:44 canadaperson: Detected attempting to cheat $4491 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:6:44 User canadaperson: Detected attempting to cheat $4491 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:7:25 dum: Detected attempting to cheat $1503 worth of assets.
+Maximum generated: 9600
+Maximum clicked: 9600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 476
+MPC spent: 476
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:7:25 User dum: Detected attempting to cheat $1503 worth of assets.
+Maximum generated: 9600
+Maximum clicked: 9600
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 476
+MPC spent: 476
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:8:25 siuuchamoy: Detected attempting to cheat $5999 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:8:25 User siuuchamoy: Detected attempting to cheat $5999 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:8:54 User Shalevwen: Was suspended by a moderator
+2023-7-26 21:9:32 milklineep: Detected attempting to cheat $1293 worth of assets.
+Maximum generated: 75090
+Maximum clicked: 62400
+Maximum auto'ed: 12690
+Money hacked: undefined
+Minimum spent: 48335
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 48335
+Triple spent: 0
+2023-7-26 21:9:32 User milklineep: Detected attempting to cheat $1293 worth of assets.
+Maximum generated: 75090
+Maximum clicked: 62400
+Maximum auto'ed: 12690
+Money hacked: undefined
+Minimum spent: 48335
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 48335
+Triple spent: 0
+2023-7-26 21:12:21 Peartherealone: Detected attempting to cheat $775 worth of assets.
+Maximum generated: 99600
+Maximum clicked: 80400
+Maximum auto'ed: 19200
+Money hacked: undefined
+Minimum spent: 102239
+MPC spent: 102239
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:12:21 User Peartherealone: Detected attempting to cheat $775 worth of assets.
+Maximum generated: 99600
+Maximum clicked: 80400
+Maximum auto'ed: 19200
+Money hacked: undefined
+Minimum spent: 102239
+MPC spent: 102239
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:12:55 User Shalevwen: 
+2023-7-26 21:13:10 swaglikeohio: Detected attempting to cheat $3503 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:13:10 User swaglikeohio: Detected attempting to cheat $3503 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:14:15 alexdoodlez2: Detected attempting to cheat $457 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:14:15 User alexdoodlez2: Detected attempting to cheat $457 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:14:24 User notnotcoffee: Was suspended by a moderator
+2023-7-26 21:14:26 User notnotcoffee: Was suspended by a moderator
+2023-7-26 21:17:27 Noah: Detected attempting to cheat $988 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:17:27 User Noah: Detected attempting to cheat $988 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:18:39 gdfg: Detected attempting to cheat $4709 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:18:39 User gdfg: Detected attempting to cheat $4709 worth of assets.
+Maximum generated: 1200
+Maximum clicked: 1200
+Maximum auto'ed: 0
+Money hacked: undefined
+Minimum spent: 0
+MPC spent: 0
+Autoclicker spent: 0
+Superclicker spent: 0
+Triple spent: 0
+2023-7-26 21:50:48 User Lime1234568: Was suspended by a moderator
+2023-7-26 22:40:57 User CLONEVPENISBAD: Was suspended by a moderator
+2023-7-26 22:41:26 User CLONEVPENISBAD: Was suspended by a moderator
+2023-7-26 22:41:58 User CLONEVPENISBAD: Was suspended by a moderator
+2023-7-26 22:42:17 User CLONEVPENISBAD2: Was suspended by a moderator
+2023-7-26 22:42:28 User CLONEVPENISBAD: Was suspended by a moderator
+2023-7-26 22:43:6 User CLONEVPENISBAD2: Was suspended by a moderator
+2023-7-26 22:43:17 User CLONEVPENISBAD4: Was suspended by a moderator
+2023-7-26 22:52:30 User iforgot: Was suspended by a moderator
+2023-7-26 22:57:24 User idk: Was suspended by a moderator
+2023-7-26 23:2:17 User imtired: Was suspended by a moderator
+2023-7-26 23:4:40 User TNIRUIWHF: Was suspended by a moderator
+2023-7-27 1:41:7 User GAMERDUDE21: Was suspended by a moderator
+2023-7-27 3:18:14 User StupidEasy2Hack: Was suspended by a moderator
+2023-7-27 3:29:41 User LMAOGLWI: Was suspended by a moderator
+2023-7-27 3:33:37 User IfYouDontIPBan: Was suspended by a moderator
+2023-7-27 3:34:31 User tsbndfvsdfv: Was suspended by a moderator
+2023-7-27 3:39:30 User NobreHD: Was suspended by a moderator
+2023-7-27 11:49:38 User nobody: Was suspended by a moderator
+2023-7-27 11:49:57 User mooihack: Was suspended by a moderator
+2023-7-27 11:50:6 User 69420: Was suspended by a moderator
+2023-7-27 11:50:15 User ThePencil: Was suspended by a moderator
+2023-7-27 11:51:1 User Abhoof: Was suspended by a moderator
+2023-7-27 11:51:23 User useteleport: Was suspended by a moderator
+2023-7-27 11:51:40 User grhdg: Was suspended by a moderator
+2023-7-27 11:51:55 User fixcodeordie: Was suspended by a moderator
+2023-7-27 11:52:13 User TunaBear123: Was suspended by a moderator
+2023-7-27 11:52:35 User grhtvvu: Was suspended by a moderator
+2023-7-27 11:52:52 User eznumber1: Was suspended by a moderator
+2023-7-27 11:53:12 User fixyourcodebro: Was suspended by a moderator
+2023-7-27 11:53:24 User BanningNotHelp: Was suspended by a moderator
+2023-7-27 21:38:56 User aidz2: Was suspended by a moderator
+2023-7-27 21:39:2 User aidz: Was suspended by a moderator
+2023-7-27 21:39:12 User toxin29: Was suspended by a moderator
+2023-7-27 21:39:18 User Remboid: Was suspended by a moderator
+2023-7-27 22:12:13 User aidz3: Was suspended by a moderator
+2023-7-27 22:34:4 User ligmaballs: Was suspended by a moderator
+2023-7-28 14:38:55 User CLONEVPN: Was suspended by a moderator
+2023-7-28 14:40:18 User nobody2: Was suspended by a moderator
+2023-7-28 14:40:24 User hichatv2: Was suspended by a moderator
+2023-7-28 14:40:30 User fartpop: Was suspended by a moderator
+2023-7-28 14:40:40 User asdkfjalkhsfd: Was suspended by a moderator
+2023-7-28 14:40:53 User herroinp: Was suspended by a moderator
+2023-7-28 14:40:59 User Redstoner: Was suspended by a moderator
+2023-7-28 14:41:6 User 12345678: Was suspended by a moderator
+2023-7-28 14:41:12 User hahahaha: Was suspended by a moderator
+2023-7-28 14:41:18 User 69jaja: Was suspended by a moderator
+2023-7-28 14:41:34 User testtesttestlol: Was suspended by a moderator
+2023-7-28 14:41:43 User Herroinp: Was suspended by a moderator
+2023-7-28 14:41:50 User 345345: Was suspended by a moderator
+2023-7-28 14:41:57 User Craft: Was suspended by a moderator
+2023-7-28 14:42:3 User craft: Was suspended by a moderator
+2023-7-28 14:42:10 User forkajmajaja: Was suspended by a moderator
+2023-7-28 14:42:16 User testaccount1: Was suspended by a moderator
+2023-7-28 14:42:22 User NotCloneB: Was suspended by a moderator
+2023-7-28 14:42:27 User testaccount: Was suspended by a moderator
+2023-7-28 14:42:33 User fakie: Was suspended by a moderator
+2023-7-28 14:42:39 User aaa: Was suspended by a moderator
+2023-7-28 14:42:45 User null: Was suspended by a moderator
+2023-7-28 14:42:54 User Baranid7: Was suspended by a moderator
+2023-7-28 14:43:8 User hellothere: Was suspended by a moderator
+2023-7-28 14:43:16 User Viber: Was suspended by a moderator
+2023-7-28 22:20:25 User familyguy: Was suspended by a moderator
+2023-7-28 22:20:30 User huskey: Was suspended by a moderator
+2023-7-28 22:20:42 User BillCipher: Was suspended by a moderator
+2023-7-28 22:22:29 User nIKO1: Was suspended by a moderator
+2023-7-28 22:22:37 User FlyingDoggy: Was suspended by a moderator
+2023-7-28 22:22:47 User DannoDrawings: Was suspended by a moderator
+2023-7-28 22:22:53 User DannoDrawings: Was suspended by a moderator
+2023-7-28 22:23:6 User LotusFei: Was suspended by a moderator
+2023-7-28 22:23:14 User CipherBill: Was suspended by a moderator
+2023-7-28 22:23:19 User phlox3: Was suspended by a moderator
+2023-7-28 22:23:39 User phloxier: Was suspended by a moderator
+2023-7-28 22:23:46 User phloxier: Was suspended by a moderator
+2023-7-28 22:24:5 User GtheBumbleBee: Was suspended by a moderator
+2023-7-28 22:24:13 User phlox2: Was suspended by a moderator
+2023-7-28 22:24:19 User gethackd: Was suspended by a moderator
+2023-7-28 22:24:29 User ilikeballs: Was suspended by a moderator
+2023-7-28 22:24:35 User yalikejazz: Was suspended by a moderator
+2023-7-28 22:24:42 User isaacdesnuts: Was suspended by a moderator
+2023-7-28 22:25:36 User isaacdesnutz: Was suspended by a moderator
+2023-7-28 22:37:19 User rickastley: Was suspended by a moderator
+2023-7-28 22:40:4 User GtheBumbleBee: 
+2023-7-28 22:48:30 User sannsundertale: Was suspended by a moderator
+2023-7-28 22:51:29 User sannnsundertale: Was suspended by a moderator
+2023-7-28 22:56:15 User sannnnnsunder: Was suspended by a moderator
+2023-7-28 23:2:38 User RIggyTheRunkey: Was suspended by a moderator
+2023-7-28 23:20:40 User iiiiii: Was suspended by a moderator
+2023-7-29 19:8:52 User hichatv3: Was suspended by a moderator
+2023-7-29 19:9:6 User testaccount3: Was suspended by a moderator
+2023-7-29 19:9:12 User CLONE: Was suspended by a moderator
+2023-7-29 19:9:19 User hacker: Was suspended by a moderator
+2023-7-29 19:9:28 User DannoCaldraws: Was suspended by a moderator
+2023-7-29 19:9:36 User clones: Was suspended by a moderator
+2023-7-29 19:9:41 User Gayman: Was suspended by a moderator
+2023-7-29 19:9:47 User shortarg: Was suspended by a moderator
+2023-7-29 19:9:52 User McChicken: Was suspended by a moderator
+2023-7-29 19:10:7 User HELPZ: Was suspended by a moderator
+2023-7-29 19:10:13 User craft2: Was suspended by a moderator
+2023-7-29 19:10:19 User asho: Was suspended by a moderator
+2023-7-29 19:10:30 User ligma: Was suspended by a moderator
+2023-7-29 19:10:39 User RaoA: Was suspended by a moderator
+2023-7-29 19:10:47 User Gamer: Was suspended by a moderator
+2023-7-29 19:10:56 User Animatedbreach: Was suspended by a moderator
+2023-7-29 19:11:3 User Bits: Was suspended by a moderator
+2023-7-29 19:11:9 User hihello: Was suspended by a moderator
+2023-7-29 19:11:17 User ripcloneclicker: Was suspended by a moderator
+2023-7-29 19:11:28 User 69jajav2: Was suspended by a moderator
+2023-7-29 19:11:34 User BitsAlt7: Was suspended by a moderator
+2023-7-29 19:12:15 User BitsAlt3: Was suspended by a moderator
+2023-7-29 19:12:24 User BitsAlt6: Was suspended by a moderator
+2023-7-29 19:12:31 User BitsAlt5: Was suspended by a moderator
+2023-7-29 19:12:48 User BitsAlt4: Was suspended by a moderator
+2023-7-29 19:13:20 User ClonePear: Was suspended by a moderator
+2023-7-29 19:13:28 User iamnotmentalyok: Was suspended by a moderator
+2023-7-29 19:13:34 User ArandomDude: Was suspended by a moderator
+2023-7-29 19:13:42 User Etan2: Was suspended by a moderator
+2023-7-29 19:13:49 User cloneniggar: Was suspended by a moderator
+2023-7-29 19:13:58 User BitsAlt2: Was suspended by a moderator
+2023-7-29 19:14:7 User BitsAlt1: Was suspended by a moderator
+2023-7-29 19:14:13 User 3ja: Was suspended by a moderator
+2023-7-29 19:14:28 User cosinesine10: Was suspended by a moderator
+2023-7-29 19:14:37 User ClonePear2: Was suspended by a moderator
+2023-7-29 19:14:49 User testability: Was suspended by a moderator
+2023-7-29 19:14:59 User Etan: Was suspended by a moderator
+2023-7-29 19:15:5 User cosine10: Was suspended by a moderator
+2023-7-29 19:15:12 User yesreysr: Was suspended by a moderator
+2023-7-29 19:15:20 User Thor: Was suspended by a moderator
+2023-7-29 19:15:28 User GetBitches: Was suspended by a moderator
+2023-7-29 19:15:37 User 123456789000: Was suspended by a moderator
+2023-7-29 19:15:44 User random: Was suspended by a moderator
+2023-7-29 19:15:50 User randomalt: Was suspended by a moderator
+2023-7-30 14:23:4 User baa: Was suspended by a moderator
+2023-7-30 14:23:17 User asdsada: Was suspended by a moderator
+2023-7-30 14:23:36 User sdaaaaaaaaaaa: Was suspended by a moderator
+2023-7-30 14:24:30 User asddfsf: Was suspended by a moderator
+2023-7-30 14:24:46 User UNSMART909090: Was suspended by a moderator
+2023-7-30 14:25:5 User hackerisback: Was suspended by a moderator
+2023-7-30 14:25:17 User Iloveclonepear: Was suspended by a moderator
+2023-7-30 14:26:9 User UwUMate: Was suspended by a moderator
+2023-7-30 14:26:20 User cloneman3: Was suspended by a moderator
+2023-7-30 14:44:26 User milklineep: 
+2023-7-30 15:21:4 User 9plus10is21: Was suspended by a moderator
+2023-7-30 16:30:4 User amsik: Was suspended by a moderator
+2023-7-30 16:30:26 User CloneVPNv2: Was suspended by a moderator
+2023-7-30 16:36:10 User PoveRB: Was suspended by a moderator
+2023-7-30 16:36:23 User NIGGAERSBAD: Was suspended by a moderator
+2023-8-1 23:17:13 User familyguyfunny: Was suspended by a moderator
+2023-8-1 23:17:19 User huu8: Was suspended by a moderator
+2023-8-1 23:17:34 User NIGGERBOY6000: Was suspended by a moderator
+2023-8-27 13:40:48 User prohaxer: Was suspended by a moderator
